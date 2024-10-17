@@ -19,7 +19,7 @@
         app:layout_constraintEnd_toEndOf="parent"/>
 
     <androidx.fragment.app.FragmentContainerView
-        android:layout_width="match_parent"
+        android:layout_widgit statusth="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/fcv"
         android:name="androidx.navigation.fragment.NavHostFragment"
